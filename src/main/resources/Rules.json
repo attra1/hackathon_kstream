@@ -1,0 +1,5 @@
+ {
+   "tablename" : "product",
+   "columname" : "name",
+   "check" : "NULL"
+  }
